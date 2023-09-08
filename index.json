@@ -3782,8 +3782,8 @@
     },
     {
       "fullPath": "presets/4.4/rates/CephPV_presets.txt",
-      "hash": "93351e03346a2d74213b89b4ece9c517524267ab62a9f33269d931a2bb18d4a1",
-      "title": "CephPV Presets",
+      "hash": "5faacb8f6c77fc3bbb4270393287dee12c20d4d4c8ccba81782b4af3c6c3bc49",
+      "title": "CephPV Presets v2",
       "firmware_version": [
         "4.3",
         "4.4"

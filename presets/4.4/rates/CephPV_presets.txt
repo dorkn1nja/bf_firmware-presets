@@ -1,4 +1,4 @@
-#$ TITLE: CephPV Presets
+#$ TITLE: CephPV Presets v2
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
